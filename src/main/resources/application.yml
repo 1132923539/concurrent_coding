@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: concurrent_learn
+  redis:
+    host: localhost
+    password: 123
